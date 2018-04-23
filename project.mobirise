@@ -32,7 +32,9 @@
       },
       "additionalSetColors": []
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/path844-128x75.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
